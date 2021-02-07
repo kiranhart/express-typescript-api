@@ -27,7 +27,7 @@ export class UserEntity implements User {
     @IsNotEmpty()
     email: string;
 
-    @Column()
+    @Column({select:false})
     @IsNotEmpty()
     password: string;
 

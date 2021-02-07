@@ -50,3 +50,120 @@
 2021-02-07 01:00:49 info: 🟩 The database is connected!
 2021-02-07 01:02:12 info: 🚀 App listening on the port 3000
 2021-02-07 01:02:13 info: 🟩 The database is connected!
+2021-02-07 16:25:03 info: 🚀 App listening on the port 3000
+2021-02-07 16:25:03 info: 🟩 The database is connected!
+2021-02-07 16:25:52 info: 🚀 App listening on the port 3000
+2021-02-07 16:25:52 info: 🟩 The database is connected!
+2021-02-07 16:27:55 info: 🚀 App listening on the port 3000
+2021-02-07 16:27:56 info: 🟩 The database is connected!
+2021-02-07 16:29:45 info: 🚀 App listening on the port 3000
+2021-02-07 16:29:46 info: 🟩 The database is connected!
+2021-02-07 16:30:04 info: 🚀 App listening on the port 3000
+2021-02-07 16:30:05 info: 🟩 The database is connected!
+2021-02-07 16:30:37 info: 🚀 App listening on the port 3000
+2021-02-07 16:30:38 info: 🟩 The database is connected!
+2021-02-07 16:30:56 info: 🚀 App listening on the port 3000
+2021-02-07 16:30:56 info: 🟩 The database is connected!
+2021-02-07 16:31:03 info: 🚀 App listening on the port 3000
+2021-02-07 16:31:03 info: 🟩 The database is connected!
+2021-02-07 16:31:37 info: 🚀 App listening on the port 3000
+2021-02-07 16:31:38 info: 🟩 The database is connected!
+2021-02-07 16:31:52 info: 🚀 App listening on the port 3000
+2021-02-07 16:31:53 info: 🟩 The database is connected!
+2021-02-07 16:32:00 info: 🚀 App listening on the port 3000
+2021-02-07 16:32:00 info: 🟩 The database is connected!
+2021-02-07 16:32:26 info: 🚀 App listening on the port 3000
+2021-02-07 16:32:26 info: 🟩 The database is connected!
+2021-02-07 16:32:39 info: [0mGET / [36m304[0m 4.738 ms - -[0m
+2021-02-07 16:32:39 info: [0mGET /favicon.ico [33m404[0m 2.188 ms - 150[0m
+2021-02-07 16:32:41 info: [0mGET /uesrs [33m404[0m 1.091 ms - 144[0m
+2021-02-07 16:32:44 info: [0mGET /users [32m200[0m 225.948 ms - 31[0m
+2021-02-07 16:35:26 info: [0mPOST /users [32m201[0m 429.542 ms - 280[0m
+2021-02-07 16:35:35 info: [0mGET /users [32m200[0m 48.333 ms - 282[0m
+2021-02-07 16:42:39 info: 🚀 App listening on the port 3000
+2021-02-07 16:42:40 info: 🟩 The database is connected!
+2021-02-07 16:42:44 info: [0mGET /users [36m304[0m 47.780 ms - -[0m
+2021-02-07 16:42:46 info: [0mGET /users [36m304[0m 38.642 ms - -[0m
+2021-02-07 16:42:59 info: 🚀 App listening on the port 3000
+2021-02-07 16:42:59 info: 🟩 The database is connected!
+2021-02-07 16:43:00 info: [0mGET /users [32m200[0m 52.628 ms - 208[0m
+2021-02-07 16:43:12 error: StatusCode : 409, Message : You're email kiran.hart@live.com already exists
+2021-02-07 16:43:12 info: [0mPOST /users [33m409[0m 216.505 ms - 61[0m
+2021-02-07 16:43:16 error: StatusCode : 500, Message : duplicate key value violates unique constraint "UQ_9b998bada7cff93fcb953b0c37e"
+2021-02-07 16:43:16 info: [0mPOST /users [31m500[0m 254.510 ms - 95[0m
+2021-02-07 16:43:20 info: [0mPOST /users [32m201[0m 268.094 ms - 282[0m
+2021-02-07 16:43:28 info: [0mGET /users [32m200[0m 48.991 ms - 388[0m
+2021-02-07 16:46:04 error: StatusCode : 400, Message : firstName must be a string, lastName must be a string, username must be a string
+2021-02-07 16:46:04 info: [0mPOST /login [33m400[0m 2.230 ms - 94[0m
+2021-02-07 16:47:08 info: 🚀 App listening on the port 3000
+2021-02-07 16:47:09 info: 🟩 The database is connected!
+2021-02-07 16:47:25 info: 🚀 App listening on the port 3000
+2021-02-07 16:47:26 info: 🟩 The database is connected!
+2021-02-07 16:47:29 error: StatusCode : 400, Message : firstName must be a string, lastName must be a string, username must be a string
+2021-02-07 16:47:29 info: [0mPOST /login [33m400[0m 25.765 ms - 94[0m
+2021-02-07 16:47:59 info: 🚀 App listening on the port 3000
+2021-02-07 16:47:59 info: 🟩 The database is connected!
+2021-02-07 16:48:01 error: StatusCode : 400, Message : firstName must be a string, lastName must be a string, username must be a string
+2021-02-07 16:48:01 info: [0mPOST /login [33m400[0m 24.156 ms - 94[0m
+2021-02-07 16:49:04 info: 🚀 App listening on the port 3000
+2021-02-07 16:49:04 info: 🟩 The database is connected!
+2021-02-07 16:49:06 error: StatusCode : 500, Message : data and hash arguments required
+2021-02-07 16:49:06 info: [0mPOST /login [31m500[0m 85.055 ms - 46[0m
+2021-02-07 16:51:35 info: [0mGET /users [36m304[0m 179.156 ms - -[0m
+2021-02-07 16:52:19 error: StatusCode : 409, Message : Email: kiran.hart@lifve.com not found
+2021-02-07 16:52:19 info: [0mPOST /login [33m409[0m 178.403 ms - 51[0m
+2021-02-07 16:53:53 info: 🚀 App listening on the port 3000
+2021-02-07 16:53:54 info: 🟩 The database is connected!
+2021-02-07 16:53:55 error: StatusCode : 500, Message : data and hash arguments required
+2021-02-07 16:53:55 info: [0mPOST /login [31m500[0m 72.421 ms - 46[0m
+2021-02-07 16:55:38 info: 🚀 App listening on the port 3000
+2021-02-07 16:55:39 info: 🟩 The database is connected!
+2021-02-07 16:55:40 info: email: kiran.hart@live.com pass: Tweety1.
+2021-02-07 16:55:40 error: StatusCode : 500, Message : data and hash arguments required
+2021-02-07 16:55:40 info: [0mPOST /login [31m500[0m 78.618 ms - 46[0m
+2021-02-07 16:56:01 info: 🚀 App listening on the port 3000
+2021-02-07 16:56:01 info: 🟩 The database is connected!
+2021-02-07 16:56:02 info: email: kiran.hart@live.com pass: undefined
+2021-02-07 16:56:02 error: StatusCode : 500, Message : data and hash arguments required
+2021-02-07 16:56:02 info: [0mPOST /login [31m500[0m 76.453 ms - 46[0m
+2021-02-07 16:58:22 info: 🚀 App listening on the port 3000
+2021-02-07 16:58:23 info: 🟩 The database is connected!
+2021-02-07 16:58:24 info: [0mPOST /login [32m200[0m 142.892 ms - 278[0m
+2021-02-07 16:59:50 info: [0mPOST /logout [32m200[0m 240.571 ms - 205[0m
+2021-02-07 16:59:53 error: StatusCode : 404, Message : Authentication token missing
+2021-02-07 16:59:53 info: [0mPOST /logout [33m404[0m 1.974 ms - 42[0m
+2021-02-07 17:01:22 info: 🚀 App listening on the port 3000
+2021-02-07 17:01:22 info: 🟩 The database is connected!
+2021-02-07 17:01:26 error: StatusCode : 404, Message : Authentication token missing
+2021-02-07 17:01:26 info: [0mGET /users [33m404[0m 5.593 ms - 42[0m
+2021-02-07 17:01:45 error: StatusCode : 404, Message : Authentication token missing
+2021-02-07 17:01:45 info: [0mGET /users [33m404[0m 2.078 ms - 42[0m
+2021-02-07 17:01:49 error: StatusCode : 404, Message : Authentication token missing
+2021-02-07 17:01:49 info: [0mPOST /logout [33m404[0m 13.076 ms - 42[0m
+2021-02-07 17:02:12 info: [0mPOST /login [32m200[0m 269.317 ms - 278[0m
+2021-02-07 17:02:20 info: [0mPOST /logout [32m200[0m 91.997 ms - 205[0m
+2021-02-07 17:02:27 info: [0mPOST /login [32m200[0m 109.458 ms - 278[0m
+2021-02-07 17:02:31 info: [0mGET /users [32m200[0m 91.171 ms - 388[0m
+2021-02-07 17:02:50 info: [0mDELETE /users/3 [32m200[0m 229.794 ms - 208[0m
+2021-02-07 17:02:54 info: [0mGET /users [32m200[0m 88.408 ms - 208[0m
+2021-02-07 17:05:54 info: 🚀 App listening on the port 3000
+2021-02-07 17:05:55 info: 🟩 The database is connected!
+2021-02-07 17:05:57 info: [0mGET /users [32m200[0m 98.854 ms - 227[0m
+2021-02-07 17:05:58 info: [0mGET /users [32m200[0m 90.432 ms - 227[0m
+2021-02-07 17:06:10 info: 🚀 App listening on the port 3000
+2021-02-07 17:06:11 info: 🟩 The database is connected!
+2021-02-07 17:06:11 info: [0mGET /users [32m200[0m 206.394 ms - 208[0m
+2021-02-07 17:06:13 info: [0mGET /users [32m200[0m 86.951 ms - 208[0m
+2021-02-07 17:06:15 info: [0mGET /users [32m200[0m 89.929 ms - 208[0m
+2021-02-07 17:06:21 info: 🚀 App listening on the port 3000
+2021-02-07 17:06:21 info: [0mGET /users [32m200[0m 255.049 ms - 227[0m
+2021-02-07 17:06:21 info: 🟩 The database is connected!
+2021-02-07 17:07:41 info: [0mPOST /logout [32m200[0m 252.394 ms - 205[0m
+2021-02-07 17:07:45 error: StatusCode : 409, Message : Not a user???
+2021-02-07 17:07:45 info: [0mDELETE /users/3 [33m409[0m 37.565 ms - 27[0m
+2021-02-07 17:09:34 error: StatusCode : 404, Message : Authentication token missing
+2021-02-07 17:09:34 info: [0mGET /users [33m404[0m 1.170 ms - 42[0m
+2021-02-07 17:09:52 info: [0mPOST /login [32m200[0m 279.974 ms - 278[0m
+2021-02-07 17:09:55 info: [0mGET /users [32m200[0m 82.686 ms - 227[0m
+2021-02-07 17:11:47 info: 🚀 App listening on the port 3000
+2021-02-07 17:11:48 info: 🟩 The database is connected!

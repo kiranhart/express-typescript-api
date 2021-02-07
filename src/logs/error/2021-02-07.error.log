@@ -1,2 +1,42 @@
 2021-02-07 00:43:06 error: 🟥 Unable to connect to the database: MissingPrimaryColumnError: Entity "UserEntity" does not have a primary column. Primary column is required to have in all your entities. Use @PrimaryColumn decorator to add a primary column to your entity..
 2021-02-07 00:46:37 error: 🟥 Unable to connect to the database: Error: Unique constraint contains column that is missing in the entity (UserEntity): email.
+2021-02-07 16:24:30 error: uncaughtException: CreateUserDto is not defined
+ReferenceError: CreateUserDto is not defined
+    at AuthRoute.initializeRoutes (C:\Users\Kiran\Documents\Development\Websites\api-starter\src\routes\auth.route.ts:19:57)
+    at new AuthRoute (C:\Users\Kiran\Documents\Development\Websites\api-starter\src\routes\auth.route.ts:14:14)
+    at Object.<anonymous> (C:\Users\Kiran\Documents\Development\Websites\api-starter\src\server.ts:8:5)
+    at Module._compile (internal/modules/cjs/loader.js:1075:30)
+    at Module.m._compile (C:\Users\Kiran\Documents\Development\Websites\api-starter\node_modules\ts-node\src\index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1096:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Kiran\Documents\Development\Websites\api-starter\node_modules\ts-node\src\index.ts:1059:12)
+    at Module.load (internal/modules/cjs/loader.js:940:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:781:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+2021-02-07 16:43:12 error: StatusCode : 409, Message : You're email kiran.hart@live.com already exists
+2021-02-07 16:43:16 error: StatusCode : 500, Message : duplicate key value violates unique constraint "UQ_9b998bada7cff93fcb953b0c37e"
+2021-02-07 16:46:04 error: StatusCode : 400, Message : firstName must be a string, lastName must be a string, username must be a string
+2021-02-07 16:47:29 error: StatusCode : 400, Message : firstName must be a string, lastName must be a string, username must be a string
+2021-02-07 16:48:01 error: StatusCode : 400, Message : firstName must be a string, lastName must be a string, username must be a string
+2021-02-07 16:48:39 error: uncaughtException: LoginUserDTO is not defined
+ReferenceError: LoginUserDTO is not defined
+    at AuthRoute.initializeRoutes (C:\Users\Kiran\Documents\Development\Websites\api-starter\src\routes\auth.route.ts:19:57)
+    at new AuthRoute (C:\Users\Kiran\Documents\Development\Websites\api-starter\src\routes\auth.route.ts:14:14)
+    at Object.<anonymous> (C:\Users\Kiran\Documents\Development\Websites\api-starter\src\server.ts:9:5)
+    at Module._compile (internal/modules/cjs/loader.js:1075:30)
+    at Module.m._compile (C:\Users\Kiran\Documents\Development\Websites\api-starter\node_modules\ts-node\src\index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1096:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Kiran\Documents\Development\Websites\api-starter\node_modules\ts-node\src\index.ts:1059:12)
+    at Module.load (internal/modules/cjs/loader.js:940:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:781:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+2021-02-07 16:49:06 error: StatusCode : 500, Message : data and hash arguments required
+2021-02-07 16:52:19 error: StatusCode : 409, Message : Email: kiran.hart@lifve.com not found
+2021-02-07 16:53:55 error: StatusCode : 500, Message : data and hash arguments required
+2021-02-07 16:55:40 error: StatusCode : 500, Message : data and hash arguments required
+2021-02-07 16:56:02 error: StatusCode : 500, Message : data and hash arguments required
+2021-02-07 16:59:53 error: StatusCode : 404, Message : Authentication token missing
+2021-02-07 17:01:26 error: StatusCode : 404, Message : Authentication token missing
+2021-02-07 17:01:45 error: StatusCode : 404, Message : Authentication token missing
+2021-02-07 17:01:49 error: StatusCode : 404, Message : Authentication token missing
+2021-02-07 17:07:45 error: StatusCode : 409, Message : Not a user???
+2021-02-07 17:09:34 error: StatusCode : 404, Message : Authentication token missing

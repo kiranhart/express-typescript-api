@@ -17,3 +17,12 @@ export class CreateUserDTO {
     IsString()
     public password: string;
 }
+
+export class LoginUserDTO {
+    
+    @IsEmail()
+    public email: string;
+
+    IsString()
+    public password: string;
+}
