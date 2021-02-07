@@ -1,0 +1,2 @@
+2021-02-07 00:43:06 error: 🟥 Unable to connect to the database: MissingPrimaryColumnError: Entity "UserEntity" does not have a primary column. Primary column is required to have in all your entities. Use @PrimaryColumn decorator to add a primary column to your entity..
+2021-02-07 00:46:37 error: 🟥 Unable to connect to the database: Error: Unique constraint contains column that is missing in the entity (UserEntity): email.

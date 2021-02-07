@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\Kiran\\Documents\\Development\\Websites\\api-starter\\src\\logs\\info\\.3dc4940bd0602996874354a1a95a632c26cecb54-audit.json",
+    "files": [
+        {
+            "date": 1612675704741,
+            "name": "C:\\Users\\Kiran\\Documents\\Development\\Websites\\api-starter\\src\\logs\\info\\2021-02-07.log",
+            "hash": "eca65c95712660fe2883a00c22213a0b"
+        }
+    ]
+}

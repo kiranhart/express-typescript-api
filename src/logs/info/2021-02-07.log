@@ -1,0 +1,52 @@
+2021-02-07 00:28:24 info: 🚀 App listening on the port 3000
+2021-02-07 00:34:42 info: 🚀 App listening on the port 3000
+2021-02-07 00:35:09 info: 🚀 App listening on the port 3000
+2021-02-07 00:35:28 info: 🚀 App listening on the port 3000
+2021-02-07 00:35:48 info: 🚀 App listening on the port 3000
+2021-02-07 00:35:59 info: 🚀 App listening on the port 3000
+2021-02-07 00:36:17 info: 🚀 App listening on the port 3000
+2021-02-07 00:37:16 info: 🚀 App listening on the port 3000
+2021-02-07 00:39:10 info: 🚀 App listening on the port 3000
+2021-02-07 00:39:30 info: 🚀 App listening on the port 3000
+2021-02-07 00:39:50 info: 🚀 App listening on the port 3000
+2021-02-07 00:39:50 info: 🟩 The database is connected!
+2021-02-07 00:40:47 info: 🚀 App listening on the port 3000
+2021-02-07 00:40:47 info: 🟩 The database is connected!
+2021-02-07 00:41:41 info: 🚀 App listening on the port 3000
+2021-02-07 00:41:41 info: 🟩 The database is connected!
+2021-02-07 00:42:29 info: 🚀 App listening on the port 3000
+2021-02-07 00:42:30 info: 🟩 The database is connected!
+2021-02-07 00:43:06 info: 🚀 App listening on the port 3000
+2021-02-07 00:43:06 error: 🟥 Unable to connect to the database: MissingPrimaryColumnError: Entity "UserEntity" does not have a primary column. Primary column is required to have in all your entities. Use @PrimaryColumn decorator to add a primary column to your entity..
+2021-02-07 00:45:03 info: 🚀 App listening on the port 3000
+2021-02-07 00:45:04 info: 🟩 The database is connected!
+2021-02-07 00:46:36 info: 🚀 App listening on the port 3000
+2021-02-07 00:46:37 error: 🟥 Unable to connect to the database: Error: Unique constraint contains column that is missing in the entity (UserEntity): email.
+2021-02-07 00:47:44 info: 🚀 App listening on the port 3000
+2021-02-07 00:47:45 info: 🟩 The database is connected!
+2021-02-07 00:50:52 info: 🚀 App listening on the port 3000
+2021-02-07 00:50:53 info: 🟩 The database is connected!
+2021-02-07 00:51:18 info: 🚀 App listening on the port 3000
+2021-02-07 00:51:18 info: 🟩 The database is connected!
+2021-02-07 00:51:24 info: 🚀 App listening on the port 3000
+2021-02-07 00:51:25 info: 🟩 The database is connected!
+2021-02-07 00:55:33 info: 🚀 App listening on the port 3000
+2021-02-07 00:55:34 info: 🟩 The database is connected!
+2021-02-07 00:55:41 info: 🚀 App listening on the port 3000
+2021-02-07 00:55:42 info: 🟩 The database is connected!
+2021-02-07 00:56:55 info: 🚀 App listening on the port 3000
+2021-02-07 00:56:56 info: 🟩 The database is connected!
+2021-02-07 00:57:05 info: 🚀 App listening on the port 3000
+2021-02-07 00:57:06 info: 🟩 The database is connected!
+2021-02-07 00:57:44 info: 🚀 App listening on the port 3000
+2021-02-07 00:57:44 info: 🟩 The database is connected!
+2021-02-07 00:58:23 info: 🚀 App listening on the port 3000
+2021-02-07 00:58:24 info: 🟩 The database is connected!
+2021-02-07 00:58:27 info: 🚀 App listening on the port 3000
+2021-02-07 00:58:28 info: 🟩 The database is connected!
+2021-02-07 00:59:38 info: 🚀 App listening on the port 3000
+2021-02-07 00:59:39 info: 🟩 The database is connected!
+2021-02-07 01:00:48 info: 🚀 App listening on the port 3000
+2021-02-07 01:00:49 info: 🟩 The database is connected!
+2021-02-07 01:02:12 info: 🚀 App listening on the port 3000
+2021-02-07 01:02:13 info: 🟩 The database is connected!
